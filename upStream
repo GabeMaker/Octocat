@@ -1,1 +1,4 @@
-Explain what the "upstream" remote is usually used for, in your own words
+This is a term I hope to understand more fully in the future.
+When a team is working together they tend to all PULL from the UPSTREAM remote.
+This helps the team to work from the same source / base.
+When an individual finishes some work they PUSH to the upstream remote (from their downstream local repo)
